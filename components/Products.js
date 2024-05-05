@@ -1,6 +1,6 @@
 import React from 'react'
 async function getData() {
-    const res = await fetch("http://localhost:3000/api/products" , {
+    const res = await fetch("https://next04-gules.vercel.app/" , {
         cache: "no-store",
     })
 

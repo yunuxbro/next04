@@ -21,8 +21,7 @@ export default async function Products() {
       <div className="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
         <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
           <div className="sm:max-w-lg">
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Summer styles are finally here
+            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">BluePea Productions
             </h1>
             <p className="mt-4 text-xl text-gray-500">
               This year, our new summer collection will shelter you from the harsh elements of a world that doesn&apost care
@@ -41,37 +40,14 @@ export default async function Products() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                         <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
+                          src="https://i.postimg.cc/W4MhcHPF/2e92e4b3-a2d5-4ef9-93db-cfb0ed72df4d.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
-                          alt=""
-                          className="h-full w-full object-cover object-center"
-                        />
-                      </div>
-                    </div>
-                    <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg"
-                          alt=""
-                          className="h-full w-full object-cover object-center"
-                        />
-                      </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
-                          alt=""
-                          className="h-full w-full object-cover object-center"
-                        />
-                      </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
+                          src="https://i.postimg.cc/Kzx4GDZ9/b564631e-4124-45d5-aed1-ab3dab1bad64.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
@@ -80,14 +56,37 @@ export default async function Products() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
+                          src="https://i.postimg.cc/dtL3V1YK/0812f15d-21cd-4e2e-9634-6bf56ac5dc3e.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
+                          src="https://i.postimg.cc/kMjDCSLc/79083687-487b-4fce-b851-2084f6d49ea7.jpg"
+                          alt=""
+                          className="h-full w-full object-cover object-center"
+                        />
+                      </div>
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <img
+                          src="https://i.postimg.cc/tCwTZjqn/c9f7a032-2d82-4780-8d36-93b84a8e6346.jpg"
+                          alt=""
+                          className="h-full w-full object-cover object-center"
+                        />
+                      </div>
+                    </div>
+                    <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <img
+                          src="https://i.postimg.cc/mg9r75kX/d408f9f5-a936-4886-a6b4-b66f4999b4ec.jpg"
+                          alt=""
+                          className="h-full w-full object-cover object-center"
+                        />
+                      </div>
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <img
+                          src="https://i.postimg.cc/xC6j0rpC/cf7da049-b1d3-4b64-bff7-b38de48f1874.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
